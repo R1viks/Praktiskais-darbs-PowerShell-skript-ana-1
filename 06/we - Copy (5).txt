@@ -1,0 +1,14 @@
+DeviceName                                          DriverProviderName           DriverVersion
+----------                                          ------------------           -------------
+Xvdd SCSI Miniport                                  Xbox                         10.0.22029.3
+Voice Clarity                                       Microsoft Corporation        1.0.4.7057
+NVIDIA Virtual Audio Device (Wave Extensible) (WDM) NVIDIA                       4.92.0.0
+AMD GPIO Controller                                 Advanced Micro Devices, Inc. 2.0.1.0
+AMD GPIO Controller                                 Advanced Micro Devices, Inc  2.2.0.121
+AMD SMBus                                           Advanced Micro Devices, Inc  5.12.0.31
+G203 LIGHTSYNC                                      Logitech                     1.1.84.7627
+AMD PCI                                             Advanced Micro Devices       1.0.0.83
+AMD PCI                                             Advanced Micro Devices       1.0.0.83
+NVIDIA High Definition Audio                        NVIDIA Corporation           1.4.6.3
+NVIDIA GeForce RTX 4060                             NVIDIA                       32.0.16.1742
+Realtek PCIe GbE Family Controller                  Realtek                      10.60.615.2022
