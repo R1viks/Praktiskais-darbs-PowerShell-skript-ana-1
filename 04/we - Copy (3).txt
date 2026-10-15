@@ -1,0 +1,7 @@
+Palaists: edgeupdate
+Palaists: GoogleUpdaterInternalService157.0.8089.0
+Palaists: GoogleUpdaterService157.0.8089.0
+Palaists: MapsBroker
+Palaists: sppsvc
+Palaists: StiSvc
+Palaists: TrustedInstaller
