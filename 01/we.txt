@@ -1,0 +1,12 @@
+PS C:\Users\InToTheWilderness> Write-Output "Datora nosaukums: $env:COMPUTERNAME"
+Datora nosaukums: DESKTOP-6AL5DSE
+PS C:\Users\InToTheWilderness> Write-Output "Operētājsistēma: $($operetajsistema.Caption)"
+Operētājsistēma: Microsoft Windows 11 Pro
+PS C:\Users\InToTheWilderness> Write-Output "Būvējuma numurs: $($operetajsistema.BuildNumber)"
+Būvējuma numurs: 26200
+PS C:\Users\InToTheWilderness> Write-Output "PowerShell versija: $($PSVersionTable.PSVersion)"
+PowerShell versija: 5.1.26100.9444
+PS C:\Users\InToTheWilderness> Write-Output "Datums un laiks: $(Get-Date)"
+Datums un laiks: 10/15/2026 13:11:28
+PS C:\Users\InToTheWilderness> Write-Output "Darbojošos procesu skaits: $procesuSkaits"
+Darbojošos procesu skaits: 244
