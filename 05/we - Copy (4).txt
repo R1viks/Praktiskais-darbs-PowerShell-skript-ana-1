@@ -1,0 +1,2 @@
+Kļūdu skaits pēdējās 48 stundās: 4
+Biežākais avots: Schannel (4 reizes)
