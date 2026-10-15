@@ -1,0 +1,8 @@
+PS C:\Users\InToTheWilderness> Write-Output "Darbojas: $darbojas"
+Darbojas: 124
+PS C:\Users\InToTheWilderness> Write-Output "Apturēti: $aptureti"
+Apturēti: 188
+PS C:\Users\InToTheWilderness> Write-Output "Summa: $($darbojas + $aptureti)"
+Summa: 312
+PS C:\Users\InToTheWilderness> Write-Output "Kopējais servisu skaits: $($visi.Count)"
+Kopējais servisu skaits: 312
