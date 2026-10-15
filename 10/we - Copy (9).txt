@@ -1,0 +1,9 @@
+Procesu skaits: 245
+Darbojas servisi: 122
+Apturēti servisi: 191
+Kļūdu skaits 48 h: 4
+Disks C: brīvs: 174.7 GB
+Disks D: brīvs: 316.4 GB
+Disks E: brīvs: 200 GB
+Disks F: brīvs: 215.6 GB
+Disks G: brīvs: 373.7 GB
