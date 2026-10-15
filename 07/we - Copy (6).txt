@@ -1,0 +1,5 @@
+Disks C: | Kopā: 930.7 GB | Brīvs: 174.7 GB
+Disks D: | Kopā: 683 GB | Brīvs: 316.4 GB
+Disks E: | Kopā: 247.9 GB | Brīvs: 200 GB
+Disks F: | Kopā: 465.8 GB | Brīvs: 215.6 GB
+Disks G: | Kopā: 447 GB | Brīvs: 373.7 GB
