@@ -1,0 +1,12 @@
+Name                       Id megabaiti
+----                       -- ---------
+Spotify                 15208     119.8
+msedgewebview2          15968     124.8
+SearchHost               2168     144.8
+NVIDIA Overlay          15060     172.4
+StartMenuExperienceHost 12852     197.8
+hoi4                    24916       205
+explorer                11944     297.6
+Spotify                 18828     329.2
+Spotify                 19904     335.7
+bdservicehost            2628     657.2
